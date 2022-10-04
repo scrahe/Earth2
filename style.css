@@ -2,11 +2,11 @@ html {
   font-family:sans-serif;
 }
 
-.logo::before {
+sub.logo::before {
   content:"\1F30E";
 }
 
-.logo {
+sub.logo {
   color:red;
   font-weight:bold;
 }
