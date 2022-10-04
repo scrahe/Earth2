@@ -1,3 +1,11 @@
 html {
   font-family: sans-serif;
 }
+
+.logo::before {
+  content: \1F30E;
+}
+
+.logo {
+  text-color: red;
+}
