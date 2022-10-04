@@ -3,9 +3,10 @@ html {
 }
 
 .logo::before {
-  content:\1F30E;
+  content:"\1F30E";
 }
 
 .logo {
   color:red;
+  font-weight:bold;
 }
